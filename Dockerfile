@@ -1,4 +1,4 @@
-FROM node:10.14.2
+FROM node:10.15.0
 
 LABEL maintainer="Ioannis Poulakas <giannis.p@gmail.com>"
 
