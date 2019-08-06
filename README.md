@@ -8,5 +8,5 @@ Hosted at [DockerHub](https://hub.docker.com/r/giannisp/node-libsasl2/).
 ### Features
 
 - Debian (Jessie) base image
-- Node 10.15.3
+- Node 10.16.1
 - libsasl2-dev
